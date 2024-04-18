@@ -1,0 +1,14 @@
+app [2024-04-18 21:29:41,267: DEBUG] App started
+reactive_handling [2024-04-18 21:29:41,348: INFO] Creating todo_list
+GUI [2024-04-18 21:29:41,354: INFO] GUI created
+GUI [2024-04-18 21:29:43,373: ERROR] tuple index out of range
+reactive_handling [2024-04-18 21:29:47,805: INFO] Adding task
+reactive_handling [2024-04-18 21:29:47,834: INFO] Listing from todo_list
+reactive_handling [2024-04-18 21:29:53,101: INFO] Adding task
+reactive_handling [2024-04-18 21:29:53,101: INFO] Listing from todo_list
+reactive_handling [2024-04-18 21:29:54,964: INFO] Removing task
+reactive_handling [2024-04-18 21:29:54,965: INFO] Listing from todo_list
+reactive_handling [2024-04-18 21:29:56,397: INFO] Removing task
+reactive_handling [2024-04-18 21:29:56,398: INFO] Listing from todo_list
+GUI [2024-04-18 21:29:56,701: ERROR] tuple index out of range
+GUI [2024-04-18 21:29:57,823: WARNING] GUI destroyed
